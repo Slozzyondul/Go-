@@ -4,6 +4,7 @@ import (
 	"fmt"
 	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
+	"golang/constants"
 	"golang/functions"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
@@ -27,5 +28,6 @@ func main() {
 	basictype.Zero()
 	typeconversions.Type()
 	typeconversions.Conversions()
+	constants.Constants()
 
 }
