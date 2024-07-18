@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	basictype "golang/basic_type"
 	"golang/functions"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
@@ -21,5 +22,6 @@ func main() {
 	variables.Variables()
 	variables.Variablesinitializers()
 	variables.Shortvariable()
+	basictype.Basic()
 
 }
