@@ -19,5 +19,6 @@ func main() {
 	functions.SwapStrings()
 	nakedreturn.Split()
 	variables.Variables()
+	variables.Variablesinitializers()
 
 }
