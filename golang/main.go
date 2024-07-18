@@ -23,5 +23,6 @@ func main() {
 	variables.Variablesinitializers()
 	variables.Shortvariable()
 	basictype.Basic()
+	basictype.Zero()
 
 }
