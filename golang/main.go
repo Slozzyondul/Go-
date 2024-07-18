@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"golang/functions"
 	"golang/intro"
+	nakedreturn "golang/naked_return"
+	"golang/variables"
 	"math/rand"
 )
 
@@ -15,5 +17,7 @@ func main() {
 	functions.Addition()
 	functions.Minus()
 	functions.SwapStrings()
+	nakedreturn.Split()
+	variables.Variables()
 
 }
