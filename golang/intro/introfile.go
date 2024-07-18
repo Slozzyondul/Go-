@@ -2,6 +2,7 @@ package intro
 
 import (
 	"fmt"
+	"math"
 	"time"
 )
 
@@ -12,4 +13,8 @@ func Solo() {
 // printing current time
 func Currentime() {
 	fmt.Println("current time is", time.Now())
+}
+
+func Squareroot() {
+	fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
 }
