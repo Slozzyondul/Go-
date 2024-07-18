@@ -29,5 +29,6 @@ func main() {
 	typeconversions.Type()
 	typeconversions.Conversions()
 	constants.Constants()
+	constants.Numericconstants()
 
 }
