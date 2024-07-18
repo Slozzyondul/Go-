@@ -26,5 +26,6 @@ func main() {
 	basictype.Basic()
 	basictype.Zero()
 	typeconversions.Type()
+	typeconversions.Conversions()
 
 }
