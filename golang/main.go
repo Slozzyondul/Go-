@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
 	"golang/functions"
 	"golang/intro"
@@ -24,5 +25,6 @@ func main() {
 	variables.Shortvariable()
 	basictype.Basic()
 	basictype.Zero()
+	typeconversions.Type()
 
 }
