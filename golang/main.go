@@ -20,5 +20,6 @@ func main() {
 	nakedreturn.Split()
 	variables.Variables()
 	variables.Variablesinitializers()
+	variables.Shortvariable()
 
 }
