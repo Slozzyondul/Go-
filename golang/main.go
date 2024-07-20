@@ -7,6 +7,7 @@ import (
 	"golang/constants"
 	forloop "golang/forLo"
 	"golang/functions"
+	iflo "golang/ifLo"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
 	"golang/variables"
@@ -34,5 +35,6 @@ func main() {
 	forloop.Forloop()
 	forloop.Forloop1()
 	forloop.Forloop2()
-	forloop.Forloop3()
+	//forloop.Forloop3()
+	iflo.Ifstatement()
 }
