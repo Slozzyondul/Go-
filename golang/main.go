@@ -32,5 +32,7 @@ func main() {
 	constants.Constants()
 	constants.Numericconstants()
 	forloop.Forloop()
+	forloop.Forloop1()
+	forloop.Forloop2()
 
 }
