@@ -37,4 +37,5 @@ func main() {
 	forloop.Forloop2()
 	//forloop.Forloop3()
 	iflo.Ifstatement()
+	iflo.Ifstatement1()
 }
