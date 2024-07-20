@@ -5,6 +5,7 @@ import (
 	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
 	"golang/constants"
+	forloop "golang/forLo"
 	"golang/functions"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
@@ -30,5 +31,6 @@ func main() {
 	typeconversions.Conversions()
 	constants.Constants()
 	constants.Numericconstants()
+	forloop.Forloop()
 
 }
