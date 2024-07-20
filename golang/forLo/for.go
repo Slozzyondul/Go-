@@ -30,3 +30,11 @@ func Forloop2() {
 	}
 	fmt.Println("using while to solve similar problem as earlier:", sum)
 }
+
+//forever/infinite loop
+
+func Forloop3() {
+	for {
+		fmt.Println("i just hacked you!")
+	}
+}
