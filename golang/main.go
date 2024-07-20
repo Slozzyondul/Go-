@@ -8,6 +8,7 @@ import (
 	forloop "golang/forLo"
 	"golang/functions"
 	iflo "golang/ifLo"
+	"golang/ifelse"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
 	"golang/variables"
@@ -38,4 +39,5 @@ func main() {
 	//forloop.Forloop3()
 	iflo.Ifstatement()
 	iflo.Ifstatement1()
+	ifelse.Ifelse()
 }
