@@ -5,6 +5,7 @@ import (
 	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
 	"golang/constants"
+	"golang/exercise"
 	forloop "golang/forLo"
 	"golang/functions"
 	iflo "golang/ifLo"
@@ -40,4 +41,5 @@ func main() {
 	iflo.Ifstatement()
 	iflo.Ifstatement1()
 	ifelse.Ifelse()
+	exercise.Newtonmethod()
 }
