@@ -44,4 +44,5 @@ func main() {
 	//exercise.Newtonmethod()
 	switch1.Switch()
 	switch1.EvaluationSwitch()
+	switch1.NoConditionSwitch()
 }
