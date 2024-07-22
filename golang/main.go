@@ -43,4 +43,5 @@ func main() {
 	ifelse.Ifelse()
 	//exercise.Newtonmethod()
 	switch1.Switch()
+	switch1.EvaluationSwitch()
 }
