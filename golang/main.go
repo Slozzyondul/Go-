@@ -5,13 +5,13 @@ import (
 	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
 	"golang/constants"
-	"golang/exercise"
 	forloop "golang/forLo"
 	"golang/functions"
 	iflo "golang/ifLo"
 	"golang/ifelse"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
+	switch1 "golang/switch"
 	"golang/variables"
 	"math/rand"
 )
@@ -41,5 +41,6 @@ func main() {
 	iflo.Ifstatement()
 	iflo.Ifstatement1()
 	ifelse.Ifelse()
-	exercise.Newtonmethod()
+	//exercise.Newtonmethod()
+	switch1.Switch()
 }
