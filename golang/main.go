@@ -47,4 +47,5 @@ func main() {
 	switch1.EvaluationSwitch()
 	switch1.NoConditionSwitch()
 	defer1.Defer()
+	defer1.StackData()
 }
