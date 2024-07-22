@@ -5,6 +5,7 @@ import (
 	typeconversions "golang/Type_conversions"
 	basictype "golang/basic_type"
 	"golang/constants"
+	defer1 "golang/defer"
 	forloop "golang/forLo"
 	"golang/functions"
 	iflo "golang/ifLo"
@@ -45,4 +46,5 @@ func main() {
 	switch1.Switch()
 	switch1.EvaluationSwitch()
 	switch1.NoConditionSwitch()
+	defer1.Defer()
 }
