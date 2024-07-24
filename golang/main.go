@@ -12,6 +12,7 @@ import (
 	"golang/ifelse"
 	"golang/intro"
 	nakedreturn "golang/naked_return"
+	"golang/pointers"
 	switch1 "golang/switch"
 	"golang/variables"
 	"math/rand"
@@ -48,4 +49,5 @@ func main() {
 	switch1.NoConditionSwitch()
 	defer1.Defer()
 	defer1.StackData()
+	pointers.Pointers()
 }
