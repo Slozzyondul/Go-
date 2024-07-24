@@ -63,4 +63,5 @@ func main() {
 	slices1.SliceLiterals()
 	slices1.SliceBounds()
 	slices1.LengthCapacity()
+	slices1.NilSlices()
 }
