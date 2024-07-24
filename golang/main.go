@@ -14,6 +14,7 @@ import (
 	"golang/intro"
 	nakedreturn "golang/naked_return"
 	"golang/pointers"
+	slices1 "golang/slices"
 	"golang/structs"
 	switch1 "golang/switch"
 	"golang/variables"
@@ -57,4 +58,5 @@ func main() {
 	structs.StructPointers()
 	structs.StructLiterals()
 	arrays.Arrays()
+	slices1.Slices()
 }
