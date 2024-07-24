@@ -53,4 +53,5 @@ func main() {
 	pointers.Pointers()
 	structs.Structs()
 	structs.StructsField()
+	structs.StructPointers()
 }
