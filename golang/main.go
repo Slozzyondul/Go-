@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	typeconversions "golang/Type_conversions"
+	"golang/arrays"
 	basictype "golang/basic_type"
 	"golang/constants"
 	defer1 "golang/defer"
@@ -55,4 +56,5 @@ func main() {
 	structs.StructsField()
 	structs.StructPointers()
 	structs.StructLiterals()
+	arrays.Arrays()
 }
