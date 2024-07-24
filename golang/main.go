@@ -52,4 +52,5 @@ func main() {
 	defer1.StackData()
 	pointers.Pointers()
 	structs.Structs()
+	structs.StructsField()
 }
