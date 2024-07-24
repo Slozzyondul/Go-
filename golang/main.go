@@ -61,4 +61,5 @@ func main() {
 	slices1.Slices()
 	slices1.SlicesPointers()
 	slices1.SliceLiterals()
+	slices1.SliceBounds()
 }
