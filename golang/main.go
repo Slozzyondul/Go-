@@ -69,4 +69,5 @@ func main() {
 	slices1.SlicesofSlices()
 	slices1.AppendSlice()
 	range1.Range()
+	range1.Range1()
 }
