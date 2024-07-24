@@ -66,4 +66,5 @@ func main() {
 	slices1.NilSlices()
 	slices1.MakingSlices()
 	slices1.SlicesofSlices()
+	slices1.AppendSlice()
 }
