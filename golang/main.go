@@ -13,6 +13,7 @@ import (
 	"golang/intro"
 	nakedreturn "golang/naked_return"
 	"golang/pointers"
+	"golang/structs"
 	switch1 "golang/switch"
 	"golang/variables"
 	"math/rand"
@@ -50,4 +51,5 @@ func main() {
 	defer1.Defer()
 	defer1.StackData()
 	pointers.Pointers()
+	structs.Structs()
 }
