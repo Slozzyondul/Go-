@@ -14,6 +14,7 @@ import (
 	"golang/intro"
 	nakedreturn "golang/naked_return"
 	"golang/pointers"
+	range1 "golang/range"
 	slices1 "golang/slices"
 	"golang/structs"
 	switch1 "golang/switch"
@@ -67,4 +68,5 @@ func main() {
 	slices1.MakingSlices()
 	slices1.SlicesofSlices()
 	slices1.AppendSlice()
+	range1.Range()
 }
