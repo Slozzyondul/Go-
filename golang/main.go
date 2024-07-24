@@ -64,4 +64,5 @@ func main() {
 	slices1.SliceBounds()
 	slices1.LengthCapacity()
 	slices1.NilSlices()
+	slices1.MakingSlices()
 }
