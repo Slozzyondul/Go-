@@ -62,4 +62,5 @@ func main() {
 	slices1.SlicesPointers()
 	slices1.SliceLiterals()
 	slices1.SliceBounds()
+	slices1.LengthCapacity()
 }
