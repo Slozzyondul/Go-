@@ -59,4 +59,5 @@ func main() {
 	structs.StructLiterals()
 	arrays.Arrays()
 	slices1.Slices()
+	slices1.SlicesPointers()
 }
