@@ -75,4 +75,5 @@ func main() {
 	//slices1.DecodeImage()
 	maps1.Maps1()
 	maps1.MapLiterals()
+	maps1.MapsLiterals1()
 }
