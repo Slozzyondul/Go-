@@ -13,5 +13,9 @@ func Maps1() {
 	m["Bell Labs"] = Vertex{
 		40.68433, -74.39967,
 	}
+	m["solo"] = Vertex{
+		27, 1996,
+	}
 	fmt.Println(m["Bell Labs"])
+	fmt.Println(m["solo"])
 }
