@@ -84,5 +84,6 @@ func main() {
 	functions.Fibonacci()
 	methods1.Methods1()
 	methods1.Methods2()
+	methods1.Methods2()
 
 }
