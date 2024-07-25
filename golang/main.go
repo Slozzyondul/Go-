@@ -77,4 +77,5 @@ func main() {
 	maps1.MapLiterals()
 	maps1.MapsLiterals1()
 	maps1.MutatingMaps()
+	maps1.ExerciseWordcount()
 }
