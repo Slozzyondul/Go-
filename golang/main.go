@@ -13,6 +13,7 @@ import (
 	"golang/ifelse"
 	"golang/intro"
 	maps1 "golang/maps"
+	methods1 "golang/methods"
 	nakedreturn "golang/naked_return"
 	"golang/pointers"
 	range1 "golang/range"
@@ -81,5 +82,6 @@ func main() {
 	functions.FUnctionValues()
 	functions.Closure()
 	functions.Fibonacci()
+	methods1.Methods1()
 
 }
