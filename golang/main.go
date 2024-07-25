@@ -71,4 +71,5 @@ func main() {
 	range1.Range()
 	range1.Range1()
 	slices1.SliceExercise()
+	slices1.DecodeImage()
 }
