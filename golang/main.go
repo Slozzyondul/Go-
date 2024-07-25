@@ -80,4 +80,6 @@ func main() {
 	maps1.ExerciseWordcount()
 	functions.FUnctionValues()
 	functions.Closure()
+	functions.Fibonacci()
+
 }
