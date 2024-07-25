@@ -76,4 +76,5 @@ func main() {
 	maps1.Maps1()
 	maps1.MapLiterals()
 	maps1.MapsLiterals1()
+	maps1.MutatingMaps()
 }
