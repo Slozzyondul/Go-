@@ -79,4 +79,5 @@ func main() {
 	maps1.MutatingMaps()
 	maps1.ExerciseWordcount()
 	functions.FUnctionValues()
+	functions.Closure()
 }
