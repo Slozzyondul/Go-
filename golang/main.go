@@ -87,5 +87,6 @@ func main() {
 	methods1.Methods3()
 	methods1.Methods4()
 	methods1.Methods5()
+	methods1.Methods6()
 
 }
