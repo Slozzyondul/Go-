@@ -70,4 +70,5 @@ func main() {
 	slices1.AppendSlice()
 	range1.Range()
 	range1.Range1()
+	slices1.SliceExercise()
 }
