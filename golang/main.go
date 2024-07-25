@@ -12,6 +12,7 @@ import (
 	iflo "golang/ifLo"
 	"golang/ifelse"
 	"golang/intro"
+	maps1 "golang/maps"
 	nakedreturn "golang/naked_return"
 	"golang/pointers"
 	range1 "golang/range"
@@ -71,5 +72,6 @@ func main() {
 	range1.Range()
 	range1.Range1()
 	slices1.SliceExercise()
-	slices1.DecodeImage()
+	//slices1.DecodeImage()
+	maps1.Maps1()
 }
