@@ -99,4 +99,5 @@ func main() {
 	interfaces1.TypeAssertionInterface()
 	interfaces1.SwitchInterface()
 	interfaces1.StringerInterface()
+	interfaces1.IpAddressInterface()
 }
