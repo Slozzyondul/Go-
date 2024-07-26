@@ -11,6 +11,7 @@ import (
 	"golang/functions"
 	iflo "golang/ifLo"
 	"golang/ifelse"
+	interfaces1 "golang/interfaces"
 	"golang/intro"
 	maps1 "golang/maps"
 	methods1 "golang/methods"
@@ -90,5 +91,6 @@ func main() {
 	methods1.Methods6()
 	methods1.IndirectionalReverse()
 	methods1.PointerReceiver()
+	interfaces1.Interface1()
 
 }
