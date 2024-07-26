@@ -92,6 +92,7 @@ func main() {
 	methods1.IndirectionalReverse()
 	methods1.PointerReceiver()
 	interfaces1.Interface1()
-	interfaces1.TypeInterfaces()
+	//interfaces1.TypeInterfaces()
 	interfaces1.InterfaceValues()
+	interfaces1.NilInterfaces()
 }
