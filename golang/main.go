@@ -89,5 +89,6 @@ func main() {
 	methods1.Methods5()
 	methods1.Methods6()
 	methods1.IndirectionalReverse()
+	methods1.PointerReceiver()
 
 }

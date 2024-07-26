@@ -24,3 +24,6 @@ func IndirectionalReverse() {
 	fmt.Println(p.Abs())
 	fmt.Println(AbsFunc(*p))
 }
+
+//Functions that take a value argument must take a value of that specific type:
+//while methods with value receivers take either a value or a pointer as the receiver when they are called:
