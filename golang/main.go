@@ -98,4 +98,5 @@ func main() {
 	interfaces1.EmptyInterface()
 	interfaces1.TypeAssertionInterface()
 	interfaces1.SwitchInterface()
+	interfaces1.StringerInterface()
 }
