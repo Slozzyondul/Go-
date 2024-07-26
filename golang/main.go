@@ -97,4 +97,5 @@ func main() {
 	interfaces1.NilInterfaces()
 	interfaces1.EmptyInterface()
 	interfaces1.TypeAssertionInterface()
+	interfaces1.SwitchInterface()
 }
