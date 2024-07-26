@@ -95,4 +95,5 @@ func main() {
 	//interfaces1.TypeInterfaces()
 	interfaces1.InterfaceValues()
 	interfaces1.NilInterfaces()
+	interfaces1.EmptyInterface()
 }
