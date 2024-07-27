@@ -104,4 +104,5 @@ func main() {
 	interfaces1.Newtonmethod1()
 	interfaces1.ReaderInterface()
 	interfaces1.ReaderInterfaceInfinityLoop()
+	interfaces1.RotReaderInterface()
 }
