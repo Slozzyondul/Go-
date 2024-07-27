@@ -106,4 +106,5 @@ func main() {
 	interfaces1.ReaderInterfaceInfinityLoop()
 	interfaces1.RotReaderInterface()
 	interfaces1.ImageInterface()
+	interfaces1.ImageInterface1()
 }
