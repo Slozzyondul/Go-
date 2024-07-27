@@ -103,4 +103,5 @@ func main() {
 	interfaces1.Error_interface()
 	interfaces1.Newtonmethod1()
 	interfaces1.ReaderInterface()
+	interfaces1.ReaderInterfaceInfinityLoop()
 }
