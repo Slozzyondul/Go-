@@ -21,6 +21,7 @@ import (
 	slices1 "golang/slices"
 	"golang/structs"
 	switch1 "golang/switch"
+	typeparameters "golang/type_parameters"
 	"golang/variables"
 	"math/rand"
 )
@@ -107,4 +108,5 @@ func main() {
 	interfaces1.RotReaderInterface()
 	interfaces1.ImageInterface()
 	interfaces1.ImageInterface1()
+	typeparameters.TypeParameters()
 }
