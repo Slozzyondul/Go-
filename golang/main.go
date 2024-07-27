@@ -102,4 +102,5 @@ func main() {
 	interfaces1.IpAddressInterface()
 	interfaces1.Error_interface()
 	interfaces1.Newtonmethod1()
+	interfaces1.ReaderInterface()
 }
