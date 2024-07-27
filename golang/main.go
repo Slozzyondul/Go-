@@ -100,4 +100,5 @@ func main() {
 	interfaces1.SwitchInterface()
 	interfaces1.StringerInterface()
 	interfaces1.IpAddressInterface()
+	interfaces1.Error_interface()
 }
