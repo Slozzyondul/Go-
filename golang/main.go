@@ -112,4 +112,5 @@ func main() {
 	typeparameters.TypeParameters()
 	typeparameters.GenericType()
 	goroutines1.Goroutine1()
+	goroutines1.ChannelsWithgoroutines()
 }
