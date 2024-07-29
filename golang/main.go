@@ -109,4 +109,5 @@ func main() {
 	interfaces1.ImageInterface()
 	interfaces1.ImageInterface1()
 	typeparameters.TypeParameters()
+	typeparameters.GenericType()
 }
