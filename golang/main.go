@@ -9,6 +9,7 @@ import (
 	defer1 "golang/defer"
 	forloop "golang/forLo"
 	"golang/functions"
+	goroutines1 "golang/goroutines"
 	iflo "golang/ifLo"
 	"golang/ifelse"
 	interfaces1 "golang/interfaces"
@@ -110,4 +111,5 @@ func main() {
 	interfaces1.ImageInterface1()
 	typeparameters.TypeParameters()
 	typeparameters.GenericType()
+	goroutines1.Goroutine1()
 }
