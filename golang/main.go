@@ -113,4 +113,5 @@ func main() {
 	typeparameters.GenericType()
 	goroutines1.Goroutine1()
 	goroutines1.ChannelsWithgoroutines()
+	goroutines1.GoroutineDeadlock()
 }
