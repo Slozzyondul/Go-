@@ -115,4 +115,5 @@ func main() {
 	goroutines1.ChannelsWithgoroutines()
 	//goroutines1.GoroutineDeadlock()
 	goroutines1.GoroutineWithoutDeadlock()
+	goroutines1.SenderReceiver()
 }
