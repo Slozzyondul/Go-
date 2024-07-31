@@ -117,4 +117,5 @@ func main() {
 	goroutines1.GoroutineWithoutDeadlock()
 	goroutines1.SenderReceiver()
 	goroutines1.SelectGoroutine()
+	goroutines1.DefaultSelection()
 }
