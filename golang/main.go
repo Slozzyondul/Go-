@@ -5,6 +5,7 @@ import (
 	typeconversions "golang/Type_conversions"
 	"golang/arrays"
 	basictype "golang/basic_type"
+	binarytrees1 "golang/binary_trees"
 	"golang/constants"
 	defer1 "golang/defer"
 	forloop "golang/forLo"
@@ -119,4 +120,5 @@ func main() {
 	goroutines1.SelectGoroutine()
 	//goroutines1.DefaultSelection()
 	goroutines1.DefaultSelection1()
+	binarytrees1.EquivalentBinaryTree()
 }
