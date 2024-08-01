@@ -121,4 +121,5 @@ func main() {
 	//goroutines1.DefaultSelection()
 	goroutines1.DefaultSelection1()
 	binarytrees1.EquivalentBinaryTree()
+	goroutines1.MutexCounter()
 }
