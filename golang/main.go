@@ -25,6 +25,7 @@ import (
 	switch1 "golang/switch"
 	typeparameters "golang/type_parameters"
 	"golang/variables"
+	webcrawler1 "golang/web_crawler"
 	"math/rand"
 )
 
@@ -122,4 +123,5 @@ func main() {
 	goroutines1.DefaultSelection1()
 	binarytrees1.EquivalentBinaryTree()
 	goroutines1.MutexCounter()
+	webcrawler1.WebCrawler()
 }
